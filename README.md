@@ -32,7 +32,7 @@ The Myntra Clone is a static frontend project that recreates the homepage layout
 
 -Media Queries
 
-Purpose of the Project
+🎯Purpose of the Project
 
 The main objective of this project was to:
 
@@ -47,7 +47,7 @@ The main objective of this project was to:
 -Build a strong frontend foundation
 
 
-Future Improvements
+🔥 Future Improvements
 
 -Add JavaScript for dynamic features (Add to Cart, Product Filtering)
 
